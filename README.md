@@ -30,7 +30,7 @@ The code in this repository is structured to specify paths for uploading images.
 
 ## Usage:
 ### 1. Run Detection Script:
-  - python detect_wirebonds.py
+  - python wirebonddetect.py
 ### 2. Generate Analysis:  
   - python analyze_results.py
 
