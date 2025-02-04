@@ -1,3 +1,38 @@
+# Wirebonds Detection on Silicon Modules
+
+### Welcome to the Wirebonds Detection on Silicon Modules repository! This project is designed to perform wirebond inference on images captured from Optical Gaging Products (OGP) machines and generate insightful data analysis through detailed histograms and summary reports.
+
+## Getting Started
+Please note that setting up a new Conda environment is required to run these scripts. The Conda environment configuration is provided in the environment.yml file. Additionally, please ensure you have an Ubuntu Linux system to run this program; otherwise, you might encounter numerous PackageNotFound errors.
+
+### Installation
+Clone the repository and set up the environment:
+  1. git clone https://github.com/AiGantryWirebonds.git
+  2. cd AiGantryWirebonds
+  3. conda env create -f environment.yml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 <p>
 <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
