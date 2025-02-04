@@ -9,21 +9,38 @@ Please note that setting up a new Conda environment is required to run these scr
 
 ### Installation
 Clone the repository and set up the environment:
-1. git clone https://github.com/AiGantryWirebonds.git
-2. cd AiGantryWirebonds
-3. conda env create -f environment.yml
+  git clone https://github.com/AiGantryWirebonds.git
+  cd AiGantryWirebonds
+  conda env create -f environment.yml
 
 ### Adding Modules and Imgaes
 The code in this repository is structured to specify paths for uploading images. Ensure that you place your upload module in the appropriate directory to maintain compatibility with the codebase. The path format follows this structure: 
 ######  current_directory/Modules/(Upload_Module_Here)
-1. mkdir Modules
-2. Upload your Images here
+  mkdir Modules
+  Upload your Images here
 #### (For Example you will upload M15 in the Modules file such that the path is structured as Modules/M15/(images and text file here))
 
+## How It Works
+### 1. Upload Images:
+  - Place your OGP-captured images in the specified directory.
+### 2. Run Wirebond Detection:
+  - Execute the detection script to infer wirebond characteristics from the images.
+### 3. Data Analysis:
+  - Run the analysis script to generate histograms and a comprehensive summary table of the inference results.
 
+## Usage:
+### 1. Run Detection Script:
+  - python detect_wirebonds.py
+### 2. Generate Analysis:  
+  - python analyze_results.py
 
-
-
+## Results:
+### 1. Detection Results: Images with labels saved at:
+    Modules/Module_Name/Reuslts
+### 2. Histogram: Visual representation of key detection metrics saved at:
+    AiGantryWirebonds/Modules/Module_Name/Reuslts/Histogram.jpg
+### 3. Summary Table: Comprehensive insights into wirebond detection results saved at:
+    AiGantryWirebonds/Modules/Module_Name/Reuslts/Summary_Table.csv
 
 
 
