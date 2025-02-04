@@ -8,16 +8,16 @@
 Please note that setting up a new Conda environment is required to run these scripts. The Conda environment configuration is provided in the environment.yml file. Additionally, please ensure you have an Ubuntu Linux system to run this program; otherwise, you might encounter numerous PackageNotFound errors.
 
 ### Installation
-Clone the repository and set up the environment:
-  git clone https://github.com/AiGantryWirebonds.git
-  cd AiGantryWirebonds
-  conda env create -f environment.yml
+#### Clone the repository and set up the environment:
+     git clone https://github.com/AiGantryWirebonds.git
+     cd AiGantryWirebonds
+     conda env create -f environment.yml
 
 ### Adding Modules and Imgaes
 The code in this repository is structured to specify paths for uploading images. Ensure that you place your upload module in the appropriate directory to maintain compatibility with the codebase. The path format follows this structure: 
 ######  current_directory/Modules/(Upload_Module_Here)
-  mkdir Modules
-  Upload your Images here
+        mkdir Modules
+        Upload your Images here
 #### (For Example you will upload M15 in the Modules file such that the path is structured as Modules/M15/(images and text file here))
 
 ## How It Works
@@ -42,8 +42,8 @@ The code in this repository is structured to specify paths for uploading images.
 ### 3. Summary Table: Comprehensive insights into wirebond detection results saved at:
     AiGantryWirebonds/Modules/Module_Name/Reuslts/Summary_Table.csv
 
-
-
+## Contributing
+### Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 
 
