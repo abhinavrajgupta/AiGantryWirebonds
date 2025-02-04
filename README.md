@@ -9,7 +9,7 @@ Please note that setting up a new Conda environment is required to run these scr
 
 ### Installation
 #### Clone the repository and set up the environment:
-     git clone https://github.com/AiGantryWirebonds.git
+     git clone https://github.com/abhinavrajgupta/AiGantryWirebonds
      cd AiGantryWirebonds
      conda env create -f environment.yml
 
