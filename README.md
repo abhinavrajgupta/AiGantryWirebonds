@@ -43,7 +43,7 @@ The code in this repository is structured to specify paths for uploading images.
     AiGantryWirebonds/Modules/Module_Name/Reuslts/Summary_Table.csv
 
 ## Contributing
-### Contributions are welcome! Feel free to fork the repository and submit pull requests.
+#### Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 
 
