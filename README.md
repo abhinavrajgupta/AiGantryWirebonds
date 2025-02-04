@@ -5,7 +5,7 @@
 ## Getting Started
 
 ### Prerequisites
-Please note that setting up a new Conda environment is required to run these scripts. The Conda environment configuration is provided in the environment.yml file. Additionally, please ensure you have an Ubuntu Linux system to run this program; otherwise, you might encounter numerous PackageNotFound errors.
+Please note that setting up a new Conda environment is required to run these scripts. The Conda environment configuration is provided in the 'environment.yml' file. Additionally, please ensure you have an 'Ubuntu Linux System' to run this program; otherwise, you might encounter numerous PackageNotFound errors.
 
 ### Installation
 #### Clone the repository and set up the environment:
@@ -18,7 +18,7 @@ The code in this repository is structured to specify paths for uploading images.
 ######  current_directory/Modules/(Upload_Module_Here)
         mkdir Modules
         Upload your Images here
-#### (For Example you will upload M15 in the Modules file such that the path is structured as Modules/M15/(images and text file here))
+#### [For Example you will upload M15 in the Modules file such that the path is structured as Modules/M15/(images and text file here)]
 
 ## How It Works
 ### 1. Upload Images:
