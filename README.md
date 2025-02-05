@@ -1,6 +1,9 @@
-# Wirebonds Detection on Silicon Modules
+<div align="center">
+  <h1>Wirebonds Detection on Silicon Modules</h1>
+  <p>Welcome to the Wirebonds Detection on Silicon Modules repository! This project is designed to perform wirebond inference on images captured from OGP machine and generate insightful data analysis through detailed histograms and summary reports.</p>
+</div>
 
-### Welcome to the Wirebonds Detection on Silicon Modules repository! This project is designed to perform wirebond inference on images captured from OGP machine and generate insightful data analysis through detailed histograms and summary reports.
+---
 
 ## Getting Started
 
