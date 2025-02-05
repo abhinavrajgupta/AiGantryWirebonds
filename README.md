@@ -33,15 +33,15 @@ The code in this repository is structured to specify paths for uploading images.
      python wirebonddetect.py
 ### 2. Generate Analysis:
 Before running this script, please open **analyze_results.py** and update your current directory as base directory in the first function
-    python analyze_results.py
+     python analyze_results.py
 
 ## Results:
 ### 1. Detection Results: Images with labels saved at:
-    - ../Modules/Module_Name/Reuslts
+    ../Modules/Module_Name/Reuslts
 ### 2. Histogram: Visual representation of key detection metrics saved at:
-    - ../Modules/Module_Name/Reuslts/Histogram.jpg
+    ../Modules/Module_Name/Reuslts/Histogram.jpg
 ### 3. Summary Table: Comprehensive insights into wirebond detection results saved at:
-    - ../Modules/Module_Name/Reuslts/Summary_Table.csv
+    ../Modules/Module_Name/Reuslts/Summary_Table.csv
 
 ## Contributing
 #### Contributions are welcome! Feel free to fork the repository and submit pull requests.
