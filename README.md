@@ -32,8 +32,8 @@ The code in this repository is structured to specify paths for uploading images.
 ### 1. Run Detection Script:
      python wirebonddetect.py
 ### 2. Generate Analysis:
-Before running this script, please open **analyze_results.py** and update your current directory as base directory in the first function
-          python analyze_results.py
+Before running this script, please open **analyze_results.py** and update your current directory as base directory in the first function.
+     python analyze_results.py
 
 ## Results:
 ### 1. Detection Results: Images with labels saved at:
