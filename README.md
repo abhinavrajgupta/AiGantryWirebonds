@@ -12,6 +12,7 @@ Please note that setting up a new Conda environment is required to run these scr
      git clone https://github.com/abhinavrajgupta/AiGantryWirebonds
      cd AiGantryWirebonds
      conda env create -f environment.yml
+     conda activate Wirebond
 
 ### Adding Modules and Imgaes
 The code in this repository is structured to specify paths for uploading images. Ensure that you place your upload module in the appropriate directory to maintain compatibility with the codebase. The path format follows this structure: 
